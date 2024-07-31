@@ -29,6 +29,7 @@ The server will start at `http://localhost:5000/` (or the port you specified in 
 
 - `POST /api/auth/register` - Register a new user
 - `POST /api/auth/login` - Login user
+- `GET /api/auth/getCurrentUser` - Info user logged
 
 ### Communities
 
